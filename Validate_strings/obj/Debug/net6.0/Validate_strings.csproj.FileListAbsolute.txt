@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/bin/Debug/net6.0/Validate_strings
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/bin/Debug/net6.0/Validate_strings.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/bin/Debug/net6.0/Validate_strings.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/bin/Debug/net6.0/Validate_strings.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/bin/Debug/net6.0/Validate_strings.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/obj/Debug/net6.0/Validate_strings.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/obj/Debug/net6.0/Validate_strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/obj/Debug/net6.0/Validate_strings.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/obj/Debug/net6.0/Validate_strings.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/obj/Debug/net6.0/Validate_strings.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/obj/Debug/net6.0/Validate_strings.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/obj/Debug/net6.0/refint/Validate_strings.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/obj/Debug/net6.0/Validate_strings.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/obj/Debug/net6.0/Validate_strings.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Validate_strings/obj/Debug/net6.0/ref/Validate_strings.dll
