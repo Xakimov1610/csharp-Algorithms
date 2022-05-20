@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/bin/Debug/net6.0/Create_Algorithm_driven_String
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/bin/Debug/net6.0/Create_Algorithm_driven_String.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/bin/Debug/net6.0/Create_Algorithm_driven_String.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/bin/Debug/net6.0/Create_Algorithm_driven_String.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/bin/Debug/net6.0/Create_Algorithm_driven_String.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/obj/Debug/net6.0/Create_Algorithm_driven_String.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/obj/Debug/net6.0/Create_Algorithm_driven_String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/obj/Debug/net6.0/Create_Algorithm_driven_String.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/obj/Debug/net6.0/Create_Algorithm_driven_String.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/obj/Debug/net6.0/Create_Algorithm_driven_String.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/obj/Debug/net6.0/Create_Algorithm_driven_String.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/obj/Debug/net6.0/refint/Create_Algorithm_driven_String.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/obj/Debug/net6.0/Create_Algorithm_driven_String.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/obj/Debug/net6.0/Create_Algorithm_driven_String.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Create_Algorithm_driven_String/obj/Debug/net6.0/ref/Create_Algorithm_driven_String.dll
