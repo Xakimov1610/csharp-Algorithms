@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/bin/Debug/net6.0/ParseAndSearching_String
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/bin/Debug/net6.0/ParseAndSearching_String.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/bin/Debug/net6.0/ParseAndSearching_String.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/bin/Debug/net6.0/ParseAndSearching_String.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/bin/Debug/net6.0/ParseAndSearching_String.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/obj/Debug/net6.0/ParseAndSearching_String.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/obj/Debug/net6.0/ParseAndSearching_String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/obj/Debug/net6.0/ParseAndSearching_String.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/obj/Debug/net6.0/ParseAndSearching_String.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/obj/Debug/net6.0/ParseAndSearching_String.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/obj/Debug/net6.0/ParseAndSearching_String.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/obj/Debug/net6.0/refint/ParseAndSearching_String.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/obj/Debug/net6.0/ParseAndSearching_String.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/obj/Debug/net6.0/ParseAndSearching_String.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/ParseAndSearching_String/obj/Debug/net6.0/ref/ParseAndSearching_String.dll
