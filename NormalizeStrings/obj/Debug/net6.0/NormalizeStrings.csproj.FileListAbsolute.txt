@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/bin/Debug/net6.0/NormalizeStrings
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/bin/Debug/net6.0/NormalizeStrings.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/bin/Debug/net6.0/NormalizeStrings.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/bin/Debug/net6.0/NormalizeStrings.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/bin/Debug/net6.0/NormalizeStrings.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/obj/Debug/net6.0/NormalizeStrings.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/obj/Debug/net6.0/NormalizeStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/obj/Debug/net6.0/NormalizeStrings.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/obj/Debug/net6.0/NormalizeStrings.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/obj/Debug/net6.0/NormalizeStrings.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/obj/Debug/net6.0/NormalizeStrings.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/obj/Debug/net6.0/refint/NormalizeStrings.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/obj/Debug/net6.0/NormalizeStrings.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/obj/Debug/net6.0/NormalizeStrings.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/NormalizeStrings/obj/Debug/net6.0/ref/NormalizeStrings.dll
