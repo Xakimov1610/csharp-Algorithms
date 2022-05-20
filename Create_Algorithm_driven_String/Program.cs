@@ -26,7 +26,14 @@ class Program
 
         char[] arr = input.ToCharArray();
         Array.Reverse(arr);
-        return new String(arr);
+        // return new String(arr);
+
+        var a = arr?.ToString(); // worning
+
+        var b = new String(arr);
+
+        return b;
+        
     }
 
     static void Main(string[] args)

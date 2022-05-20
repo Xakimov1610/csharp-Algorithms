@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/bin/Debug/net6.0/Challenge_ReverseEachWord
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/bin/Debug/net6.0/Challenge_ReverseEachWord.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/bin/Debug/net6.0/Challenge_ReverseEachWord.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/bin/Debug/net6.0/Challenge_ReverseEachWord.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/bin/Debug/net6.0/Challenge_ReverseEachWord.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/obj/Debug/net6.0/Challenge_ReverseEachWord.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/obj/Debug/net6.0/Challenge_ReverseEachWord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/obj/Debug/net6.0/Challenge_ReverseEachWord.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/obj/Debug/net6.0/Challenge_ReverseEachWord.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/obj/Debug/net6.0/Challenge_ReverseEachWord.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/obj/Debug/net6.0/Challenge_ReverseEachWord.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/obj/Debug/net6.0/refint/Challenge_ReverseEachWord.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/obj/Debug/net6.0/Challenge_ReverseEachWord.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/obj/Debug/net6.0/Challenge_ReverseEachWord.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Challenge_ReverseEachWord/obj/Debug/net6.0/ref/Challenge_ReverseEachWord.dll
