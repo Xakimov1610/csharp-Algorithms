@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/bin/Debug/net6.0/Binary_Search_Arrays
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/bin/Debug/net6.0/Binary_Search_Arrays.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/bin/Debug/net6.0/Binary_Search_Arrays.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/bin/Debug/net6.0/Binary_Search_Arrays.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/bin/Debug/net6.0/Binary_Search_Arrays.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/obj/Debug/net6.0/Binary_Search_Arrays.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/obj/Debug/net6.0/Binary_Search_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/obj/Debug/net6.0/Binary_Search_Arrays.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/obj/Debug/net6.0/Binary_Search_Arrays.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/obj/Debug/net6.0/Binary_Search_Arrays.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/obj/Debug/net6.0/Binary_Search_Arrays.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/obj/Debug/net6.0/refint/Binary_Search_Arrays.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/obj/Debug/net6.0/Binary_Search_Arrays.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/obj/Debug/net6.0/Binary_Search_Arrays.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/Binary_Search_Arrays/obj/Debug/net6.0/ref/Binary_Search_Arrays.dll
