@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Delete_Kth_node_from_the_end_of_the_list/1.0.0": {
+        "runtime": {
+          "Delete_Kth_node_from_the_end_of_the_list.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delete_Kth_node_from_the_end_of_the_list/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
