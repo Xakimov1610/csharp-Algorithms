@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/bin/Debug/net6.0/RotateAnArray
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/bin/Debug/net6.0/RotateAnArray.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/bin/Debug/net6.0/RotateAnArray.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/bin/Debug/net6.0/RotateAnArray.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/bin/Debug/net6.0/RotateAnArray.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/obj/Debug/net6.0/RotateAnArray.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/obj/Debug/net6.0/RotateAnArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/obj/Debug/net6.0/RotateAnArray.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/obj/Debug/net6.0/RotateAnArray.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/obj/Debug/net6.0/RotateAnArray.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/obj/Debug/net6.0/RotateAnArray.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/obj/Debug/net6.0/refint/RotateAnArray.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/obj/Debug/net6.0/RotateAnArray.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/obj/Debug/net6.0/RotateAnArray.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/RotateAnArray/obj/Debug/net6.0/ref/RotateAnArray.dll
