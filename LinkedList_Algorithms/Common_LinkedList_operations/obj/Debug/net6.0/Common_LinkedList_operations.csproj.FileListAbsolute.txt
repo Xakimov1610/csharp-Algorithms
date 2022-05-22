@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/bin/Debug/net6.0/Common_LinkedList_operations
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/bin/Debug/net6.0/Common_LinkedList_operations.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/bin/Debug/net6.0/Common_LinkedList_operations.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/bin/Debug/net6.0/Common_LinkedList_operations.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/bin/Debug/net6.0/Common_LinkedList_operations.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/obj/Debug/net6.0/Common_LinkedList_operations.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/obj/Debug/net6.0/Common_LinkedList_operations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/obj/Debug/net6.0/Common_LinkedList_operations.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/obj/Debug/net6.0/Common_LinkedList_operations.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/obj/Debug/net6.0/Common_LinkedList_operations.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/obj/Debug/net6.0/Common_LinkedList_operations.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/obj/Debug/net6.0/refint/Common_LinkedList_operations.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/obj/Debug/net6.0/Common_LinkedList_operations.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/obj/Debug/net6.0/Common_LinkedList_operations.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/Common_LinkedList_operations/obj/Debug/net6.0/ref/Common_LinkedList_operations.dll

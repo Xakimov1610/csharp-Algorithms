@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Common_LinkedList_operations/1.0.0": {
+        "runtime": {
+          "Common_LinkedList_operations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Common_LinkedList_operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
