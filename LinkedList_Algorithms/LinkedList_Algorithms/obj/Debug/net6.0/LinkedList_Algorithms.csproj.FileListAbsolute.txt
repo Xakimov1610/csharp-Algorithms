@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/bin/Debug/net6.0/LinkedList_Algorithms
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/bin/Debug/net6.0/LinkedList_Algorithms.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/bin/Debug/net6.0/LinkedList_Algorithms.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/bin/Debug/net6.0/LinkedList_Algorithms.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/bin/Debug/net6.0/LinkedList_Algorithms.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/obj/Debug/net6.0/LinkedList_Algorithms.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/obj/Debug/net6.0/LinkedList_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/obj/Debug/net6.0/LinkedList_Algorithms.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/obj/Debug/net6.0/LinkedList_Algorithms.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/obj/Debug/net6.0/LinkedList_Algorithms.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/obj/Debug/net6.0/LinkedList_Algorithms.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/obj/Debug/net6.0/refint/LinkedList_Algorithms.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/obj/Debug/net6.0/LinkedList_Algorithms.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/obj/Debug/net6.0/LinkedList_Algorithms.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/LinkedList_Algorithms/LinkedList_Algorithms/obj/Debug/net6.0/ref/LinkedList_Algorithms.dll
