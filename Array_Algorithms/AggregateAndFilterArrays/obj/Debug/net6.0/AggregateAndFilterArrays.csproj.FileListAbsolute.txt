@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/bin/Debug/net6.0/AggregateAndFilterArrays
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/bin/Debug/net6.0/AggregateAndFilterArrays.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/bin/Debug/net6.0/AggregateAndFilterArrays.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/bin/Debug/net6.0/AggregateAndFilterArrays.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/bin/Debug/net6.0/AggregateAndFilterArrays.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/obj/Debug/net6.0/AggregateAndFilterArrays.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/obj/Debug/net6.0/AggregateAndFilterArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/obj/Debug/net6.0/AggregateAndFilterArrays.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/obj/Debug/net6.0/AggregateAndFilterArrays.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/obj/Debug/net6.0/AggregateAndFilterArrays.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/obj/Debug/net6.0/AggregateAndFilterArrays.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/obj/Debug/net6.0/refint/AggregateAndFilterArrays.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/obj/Debug/net6.0/AggregateAndFilterArrays.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/obj/Debug/net6.0/AggregateAndFilterArrays.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/AggregateAndFilterArrays/obj/Debug/net6.0/ref/AggregateAndFilterArrays.dll
