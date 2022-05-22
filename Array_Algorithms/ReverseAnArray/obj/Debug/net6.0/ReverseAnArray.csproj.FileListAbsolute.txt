@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/bin/Debug/net6.0/ReverseAnArray
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/bin/Debug/net6.0/ReverseAnArray.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/bin/Debug/net6.0/ReverseAnArray.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/bin/Debug/net6.0/ReverseAnArray.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/bin/Debug/net6.0/ReverseAnArray.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/obj/Debug/net6.0/ReverseAnArray.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/obj/Debug/net6.0/ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/obj/Debug/net6.0/ReverseAnArray.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/obj/Debug/net6.0/ReverseAnArray.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/obj/Debug/net6.0/ReverseAnArray.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/obj/Debug/net6.0/ReverseAnArray.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/obj/Debug/net6.0/refint/ReverseAnArray.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/obj/Debug/net6.0/ReverseAnArray.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/obj/Debug/net6.0/ReverseAnArray.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Array_Algorithms/ReverseAnArray/obj/Debug/net6.0/ref/ReverseAnArray.dll
