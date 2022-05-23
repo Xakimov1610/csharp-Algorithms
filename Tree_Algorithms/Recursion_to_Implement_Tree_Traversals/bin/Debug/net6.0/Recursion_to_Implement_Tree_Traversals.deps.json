@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Recursion_to_Implement_Tree_Traversals/1.0.0": {
+        "runtime": {
+          "Recursion_to_Implement_Tree_Traversals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recursion_to_Implement_Tree_Traversals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
