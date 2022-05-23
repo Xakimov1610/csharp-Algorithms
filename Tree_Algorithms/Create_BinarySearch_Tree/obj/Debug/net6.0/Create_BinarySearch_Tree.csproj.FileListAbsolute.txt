@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/bin/Debug/net6.0/Create_BinarySearch_Tree
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/bin/Debug/net6.0/Create_BinarySearch_Tree.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/bin/Debug/net6.0/Create_BinarySearch_Tree.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/bin/Debug/net6.0/Create_BinarySearch_Tree.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/bin/Debug/net6.0/Create_BinarySearch_Tree.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/obj/Debug/net6.0/Create_BinarySearch_Tree.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/obj/Debug/net6.0/Create_BinarySearch_Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/obj/Debug/net6.0/Create_BinarySearch_Tree.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/obj/Debug/net6.0/Create_BinarySearch_Tree.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/obj/Debug/net6.0/Create_BinarySearch_Tree.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/obj/Debug/net6.0/Create_BinarySearch_Tree.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/obj/Debug/net6.0/refint/Create_BinarySearch_Tree.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/obj/Debug/net6.0/Create_BinarySearch_Tree.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/obj/Debug/net6.0/Create_BinarySearch_Tree.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Create_BinarySearch_Tree/obj/Debug/net6.0/ref/Create_BinarySearch_Tree.dll
