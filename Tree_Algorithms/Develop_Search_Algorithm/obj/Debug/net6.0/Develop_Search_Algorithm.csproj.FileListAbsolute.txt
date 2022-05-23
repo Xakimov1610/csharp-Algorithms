@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/bin/Debug/net6.0/Develop_Search_Algorithm
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/bin/Debug/net6.0/Develop_Search_Algorithm.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/bin/Debug/net6.0/Develop_Search_Algorithm.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/bin/Debug/net6.0/Develop_Search_Algorithm.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/bin/Debug/net6.0/Develop_Search_Algorithm.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/obj/Debug/net6.0/Develop_Search_Algorithm.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/obj/Debug/net6.0/Develop_Search_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/obj/Debug/net6.0/Develop_Search_Algorithm.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/obj/Debug/net6.0/Develop_Search_Algorithm.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/obj/Debug/net6.0/Develop_Search_Algorithm.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/obj/Debug/net6.0/Develop_Search_Algorithm.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/obj/Debug/net6.0/refint/Develop_Search_Algorithm.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/obj/Debug/net6.0/Develop_Search_Algorithm.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/obj/Debug/net6.0/Develop_Search_Algorithm.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Tree_Algorithms/Develop_Search_Algorithm/obj/Debug/net6.0/ref/Develop_Search_Algorithm.dll

@@ -55,4 +55,5 @@ class CustomLinkedList {
         Console.WriteLine();
         linkedList.displayContents();
     }
+
 }

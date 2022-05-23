@@ -82,5 +82,7 @@ class CustomLinkedList
         linkedList.deleteKthNodeFromEnd(2);
         Console.WriteLine();
         linkedList.displayContents();
+
     }
+
 }
