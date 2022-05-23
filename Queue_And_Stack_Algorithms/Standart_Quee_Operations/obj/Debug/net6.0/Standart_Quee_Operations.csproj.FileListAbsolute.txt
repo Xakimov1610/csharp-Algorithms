@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/bin/Debug/net6.0/Standart_Quee_Operations
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/bin/Debug/net6.0/Standart_Quee_Operations.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/bin/Debug/net6.0/Standart_Quee_Operations.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/bin/Debug/net6.0/Standart_Quee_Operations.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/bin/Debug/net6.0/Standart_Quee_Operations.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/obj/Debug/net6.0/Standart_Quee_Operations.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/obj/Debug/net6.0/Standart_Quee_Operations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/obj/Debug/net6.0/Standart_Quee_Operations.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/obj/Debug/net6.0/Standart_Quee_Operations.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/obj/Debug/net6.0/Standart_Quee_Operations.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/obj/Debug/net6.0/Standart_Quee_Operations.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/obj/Debug/net6.0/refint/Standart_Quee_Operations.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/obj/Debug/net6.0/Standart_Quee_Operations.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/obj/Debug/net6.0/Standart_Quee_Operations.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Standart_Quee_Operations/obj/Debug/net6.0/ref/Standart_Quee_Operations.dll
