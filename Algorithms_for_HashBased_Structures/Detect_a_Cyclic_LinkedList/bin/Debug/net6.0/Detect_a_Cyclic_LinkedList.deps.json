@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Detect_a_Cyclic_LinkedList/1.0.0": {
+        "runtime": {
+          "Detect_a_Cyclic_LinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Detect_a_Cyclic_LinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
