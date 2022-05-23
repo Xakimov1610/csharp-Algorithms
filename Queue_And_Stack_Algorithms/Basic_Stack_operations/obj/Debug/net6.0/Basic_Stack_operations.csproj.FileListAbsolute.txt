@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/bin/Debug/net6.0/Basic_Stack_operations
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/bin/Debug/net6.0/Basic_Stack_operations.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/bin/Debug/net6.0/Basic_Stack_operations.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/bin/Debug/net6.0/Basic_Stack_operations.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/bin/Debug/net6.0/Basic_Stack_operations.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/obj/Debug/net6.0/Basic_Stack_operations.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/obj/Debug/net6.0/Basic_Stack_operations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/obj/Debug/net6.0/Basic_Stack_operations.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/obj/Debug/net6.0/Basic_Stack_operations.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/obj/Debug/net6.0/Basic_Stack_operations.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/obj/Debug/net6.0/Basic_Stack_operations.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/obj/Debug/net6.0/refint/Basic_Stack_operations.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/obj/Debug/net6.0/Basic_Stack_operations.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/obj/Debug/net6.0/Basic_Stack_operations.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Basic_Stack_operations/obj/Debug/net6.0/ref/Basic_Stack_operations.dll
