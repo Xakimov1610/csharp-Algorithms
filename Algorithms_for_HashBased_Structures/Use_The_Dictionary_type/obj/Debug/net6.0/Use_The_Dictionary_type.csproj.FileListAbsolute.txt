@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/bin/Debug/net6.0/Use_The_Dictionary_type
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/bin/Debug/net6.0/Use_The_Dictionary_type.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/bin/Debug/net6.0/Use_The_Dictionary_type.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/bin/Debug/net6.0/Use_The_Dictionary_type.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/bin/Debug/net6.0/Use_The_Dictionary_type.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/obj/Debug/net6.0/Use_The_Dictionary_type.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/obj/Debug/net6.0/Use_The_Dictionary_type.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/obj/Debug/net6.0/Use_The_Dictionary_type.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/obj/Debug/net6.0/Use_The_Dictionary_type.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/obj/Debug/net6.0/Use_The_Dictionary_type.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/obj/Debug/net6.0/Use_The_Dictionary_type.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/obj/Debug/net6.0/refint/Use_The_Dictionary_type.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/obj/Debug/net6.0/Use_The_Dictionary_type.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/obj/Debug/net6.0/Use_The_Dictionary_type.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Use_The_Dictionary_type/obj/Debug/net6.0/ref/Use_The_Dictionary_type.dll
