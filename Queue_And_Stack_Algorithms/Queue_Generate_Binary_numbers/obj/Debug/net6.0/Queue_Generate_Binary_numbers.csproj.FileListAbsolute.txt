@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/bin/Debug/net6.0/Queue_Generate_Binary_numbers
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/bin/Debug/net6.0/Queue_Generate_Binary_numbers.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/bin/Debug/net6.0/Queue_Generate_Binary_numbers.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/bin/Debug/net6.0/Queue_Generate_Binary_numbers.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/bin/Debug/net6.0/Queue_Generate_Binary_numbers.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/obj/Debug/net6.0/Queue_Generate_Binary_numbers.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/obj/Debug/net6.0/Queue_Generate_Binary_numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/obj/Debug/net6.0/Queue_Generate_Binary_numbers.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/obj/Debug/net6.0/Queue_Generate_Binary_numbers.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/obj/Debug/net6.0/Queue_Generate_Binary_numbers.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/obj/Debug/net6.0/Queue_Generate_Binary_numbers.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/obj/Debug/net6.0/refint/Queue_Generate_Binary_numbers.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/obj/Debug/net6.0/Queue_Generate_Binary_numbers.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/obj/Debug/net6.0/Queue_Generate_Binary_numbers.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Queue_Generate_Binary_numbers/obj/Debug/net6.0/ref/Queue_Generate_Binary_numbers.dll
