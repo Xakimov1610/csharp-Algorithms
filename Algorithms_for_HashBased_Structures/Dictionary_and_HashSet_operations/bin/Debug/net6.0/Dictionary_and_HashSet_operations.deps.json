@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dictionary_and_HashSet_operations/1.0.0": {
+        "runtime": {
+          "Dictionary_and_HashSet_operations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dictionary_and_HashSet_operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
