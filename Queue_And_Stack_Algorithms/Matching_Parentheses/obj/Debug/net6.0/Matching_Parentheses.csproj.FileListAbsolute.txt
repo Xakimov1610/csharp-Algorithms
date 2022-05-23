@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/bin/Debug/net6.0/Matching_Parentheses
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/bin/Debug/net6.0/Matching_Parentheses.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/bin/Debug/net6.0/Matching_Parentheses.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/bin/Debug/net6.0/Matching_Parentheses.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/bin/Debug/net6.0/Matching_Parentheses.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/obj/Debug/net6.0/Matching_Parentheses.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/obj/Debug/net6.0/Matching_Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/obj/Debug/net6.0/Matching_Parentheses.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/obj/Debug/net6.0/Matching_Parentheses.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/obj/Debug/net6.0/Matching_Parentheses.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/obj/Debug/net6.0/Matching_Parentheses.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/obj/Debug/net6.0/refint/Matching_Parentheses.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/obj/Debug/net6.0/Matching_Parentheses.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/obj/Debug/net6.0/Matching_Parentheses.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Queue_And_Stack_Algorithms/Matching_Parentheses/obj/Debug/net6.0/ref/Matching_Parentheses.dll
