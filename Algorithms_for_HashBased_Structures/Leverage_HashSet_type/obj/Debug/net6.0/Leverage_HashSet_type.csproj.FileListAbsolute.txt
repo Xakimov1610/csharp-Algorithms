@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/bin/Debug/net6.0/Leverage_HashSet_type
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/bin/Debug/net6.0/Leverage_HashSet_type.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/bin/Debug/net6.0/Leverage_HashSet_type.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/bin/Debug/net6.0/Leverage_HashSet_type.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/bin/Debug/net6.0/Leverage_HashSet_type.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/obj/Debug/net6.0/Leverage_HashSet_type.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/obj/Debug/net6.0/Leverage_HashSet_type.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/obj/Debug/net6.0/Leverage_HashSet_type.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/obj/Debug/net6.0/Leverage_HashSet_type.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/obj/Debug/net6.0/Leverage_HashSet_type.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/obj/Debug/net6.0/Leverage_HashSet_type.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/obj/Debug/net6.0/refint/Leverage_HashSet_type.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/obj/Debug/net6.0/Leverage_HashSet_type.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/obj/Debug/net6.0/Leverage_HashSet_type.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Algorithms_for_HashBased_Structures/Leverage_HashSet_type/obj/Debug/net6.0/ref/Leverage_HashSet_type.dll

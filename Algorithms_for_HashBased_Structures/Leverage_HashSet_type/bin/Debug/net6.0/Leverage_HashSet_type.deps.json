@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Leverage_HashSet_type/1.0.0": {
+        "runtime": {
+          "Leverage_HashSet_type.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leverage_HashSet_type/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
