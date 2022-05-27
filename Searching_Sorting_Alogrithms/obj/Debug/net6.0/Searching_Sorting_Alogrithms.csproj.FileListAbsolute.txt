@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/bin/Debug/net6.0/Searching_Sorting_Alogrithms
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/bin/Debug/net6.0/Searching_Sorting_Alogrithms.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/bin/Debug/net6.0/Searching_Sorting_Alogrithms.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/bin/Debug/net6.0/Searching_Sorting_Alogrithms.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/bin/Debug/net6.0/Searching_Sorting_Alogrithms.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/obj/Debug/net6.0/Searching_Sorting_Alogrithms.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/obj/Debug/net6.0/Searching_Sorting_Alogrithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/obj/Debug/net6.0/Searching_Sorting_Alogrithms.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/obj/Debug/net6.0/Searching_Sorting_Alogrithms.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/obj/Debug/net6.0/Searching_Sorting_Alogrithms.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/obj/Debug/net6.0/Searching_Sorting_Alogrithms.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/obj/Debug/net6.0/refint/Searching_Sorting_Alogrithms.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/obj/Debug/net6.0/Searching_Sorting_Alogrithms.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/obj/Debug/net6.0/Searching_Sorting_Alogrithms.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/Searching_Sorting_Alogrithms/obj/Debug/net6.0/ref/Searching_Sorting_Alogrithms.dll
