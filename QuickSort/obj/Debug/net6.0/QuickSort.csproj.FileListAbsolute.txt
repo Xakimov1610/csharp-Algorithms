@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/bin/Debug/net6.0/QuickSort
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/bin/Debug/net6.0/QuickSort.deps.json
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/bin/Debug/net6.0/QuickSort.runtimeconfig.json
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/bin/Debug/net6.0/QuickSort.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/bin/Debug/net6.0/QuickSort.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/obj/Debug/net6.0/QuickSort.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/obj/Debug/net6.0/QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/obj/Debug/net6.0/QuickSort.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/obj/Debug/net6.0/QuickSort.AssemblyInfo.cs
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/obj/Debug/net6.0/QuickSort.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/obj/Debug/net6.0/QuickSort.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/obj/Debug/net6.0/refint/QuickSort.dll
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/obj/Debug/net6.0/QuickSort.pdb
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/obj/Debug/net6.0/QuickSort.genruntimeconfig.cache
+/Users/xakimov/Dev/Linkedin/Algorithms/QuickSort/obj/Debug/net6.0/ref/QuickSort.dll
